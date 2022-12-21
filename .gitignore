@@ -60,4 +60,4 @@ out/
 # cjp 
 jar-it
 javacompile
-**MANIFEST.MF
+src/main/resources/config.properties
